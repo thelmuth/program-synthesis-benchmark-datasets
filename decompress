@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gunzip -r -v datasets/
+
