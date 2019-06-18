@@ -15,7 +15,7 @@ Train cases (100)
 - 30 cases where two of the three numbers are the same
 - 10 cases where all three numbers are the same
 
-Test cases (1000)
+Test cases (1,000)
 - 600 random integers
 - 300 cases where two of the three numbers are the same
 - 100 cases where all three numbers are the same
