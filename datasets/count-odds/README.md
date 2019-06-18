@@ -19,7 +19,7 @@ Train cases (200)
 - 9 vectors of random length, all even integers
 - 150 vectors of random length, random integers
 
-Test cases (2000)
+Test cases (2,000)
 - 100 vectors of random length, all odd integers
 - 100 vectors of random length, all even integers
 - 1,800 vectors of random length, random integers
