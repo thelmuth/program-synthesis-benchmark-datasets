@@ -16,8 +16,8 @@ Train cases (300)
 - 106 edge cases
 - 194 random cases
 
-Test cases (2000)
-- 2000 random cases
+Test cases (2,000)
+- 2,000 random cases
 
 ## Input/Output Types
 - input1: string
