@@ -18,7 +18,7 @@ Train cases (100)
 - 22 edge cases
 - 78 random cases
 
-Test cases (1000)
+Test cases (1,000)
 - 100 all same string
 - 200 already in order
 - 700 random strings
