@@ -18,4 +18,4 @@ Test cases (1,000)
 
 ## Input/Output Types
 - input1: integer
-- output1: printed integer
+- output1: integer
