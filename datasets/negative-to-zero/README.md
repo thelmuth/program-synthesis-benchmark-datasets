@@ -7,10 +7,10 @@
 - 6 length 2 vectors
 
 ## Random Cases
-1 million cases
-- 150,000 random length vectors, all negative numbers
-- 150,000 random length vectors, all positive numbers
-- 700,000 random length vectors, random probability of positive and negative numbers
+500,000 cases
+- 75,000 random length vectors, all negative numbers
+- 75,000 random length vectors, all positive numbers
+- 350,000 random length vectors, random probability of positive and negative numbers
 
 ## Typical use:
 Train cases (200)
