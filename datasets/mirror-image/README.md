@@ -9,11 +9,11 @@
 - 6 - permutations of a length 3 vector
 
 ## Random Cases
-500,000 cases
-- 250,000 true cases
-- 50,000 equal vector cases
-- 100,000 "close calls" (change only a few elements)
-- 100,000 random cases
+1 million cases
+- 500,000 true cases
+- 100,000 equal vector cases
+- 200,000 "close calls" (change only a few elements)
+- 200,000 random cases
 
 ## Typical use:
 Train cases (100)
