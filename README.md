@@ -8,7 +8,7 @@ This repository is still undergoing work and is not yet stable.
 
 Each problem in the benchmark suite is located in a separate directory in the `datasets` directory. All data files are compressed with `gzip`. To unzip the datasets, you can unzip individual files, or run the `decompress` script to unzip them all at once.
 
-For each problem, we provide a set of `edge` cases and a set of `random` cases. The `edge` cases are those given in the [https://web.cs.umass.edu/publication/docs/2015/UM-CS-2015-006.pdf](technical report) describing the benchmark problems. The `random` cases are all generated from the recommended data domains from the technical report, and appear in the same proportions as recommended. For each problem, we included up to 1 million `random` cases, unless the range of problem inputs is smaller than 1 million or the resulting file size was over 100MB, in which case we included as many as we could.
+For each problem, we provide a set of `edge` cases and a set of `random` cases. The `edge` cases are those given in the [technical report](https://web.cs.umass.edu/publication/docs/2015/UM-CS-2015-006.pdf) describing the benchmark problems. The `random` cases are all generated from the recommended data domains from the technical report, and appear in the same proportions as recommended. For each problem, we included up to 1 million `random` cases, unless the range of problem inputs is smaller than 1 million or the resulting file size was over 100MB, in which case we included as many as we could.
 
 A typical use of these datasets for a set of runs of program synthesis would be:
 
