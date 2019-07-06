@@ -14,12 +14,10 @@
 ## Typical use:
 Train cases (150)
 - 15 edge cases
-- 10 length 50 vectors
-- 125 random length vectors
+- 135 random cases
 
 Test cases (1,500)
-- 100 length 50 vectors
-- 1,400 random length vectors
+- 1,500 random cases
 
 ## Input/Output Types
 - input1: vector
