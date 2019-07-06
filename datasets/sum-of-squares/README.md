@@ -8,6 +8,7 @@
 ## Random Cases
 94 cases
 - 94 numbers [1, 100] not covered by the edge cases
+- NOTE: While the numbers are in shuffled order, all cases not in the edge cases appear in this file once.
 
 ## Typical use:
 Train cases (50)
