@@ -18,7 +18,7 @@
 ## Typical use:
 Train cases (100)
 - 23 edge cases
-- 67 random cases
+- 77 random cases
 
 Test cases (1,000)
 - 1,000 random cases
