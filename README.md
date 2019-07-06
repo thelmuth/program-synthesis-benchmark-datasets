@@ -20,10 +20,34 @@ We have provided typical sizes of training and test sets in each problems README
 
 ## Dataset format
 
-Each edge and random dataset is provided in three formats: CSV, JSON, and EDN, with all three formats containing identical data. All three have the following:
+Each edge and random dataset is provided in three formats: CSV, JSON, and EDN, with all three formats containing identical data. Each data file has the following:
 
 - The first row of the file is the column names.
 - Each following row corresponds to one set of program inputs and expected outputs.
 - Input columns are labeled `input1`, `input2`, etc., and output columns are labeled `output1`, `output2`, etc.
 - In CSVs, string inputs and outputs are double quoted when necessary, but not if not necessary. Newlines within strings are escaped. JSON and EDN formats require all strings to be double quoted.
 - Columns in CSV files are comma-separated. JSON and EDN formats follow standard separation.
+
+## Citation
+
+If you use these datasets in a publication, please cite the paper [General Program Synthesis Benchmark Suite](http://thelmuth.github.io/GECCO_2015_Benchmarks_Materials/) and include a link to this repository.
+
+BibTeX entry for paper:
+
+```bibtex
+@InProceedings{Helmuth:2015:GECCO,
+  author =	"Thomas Helmuth and Lee Spector",
+  title =	"General Program Synthesis Benchmark Suite",
+  booktitle =	"GECCO '15: Proceedings of the 2015 Annual Conference
+		 on Genetic and Evolutionary Computation",
+  year = 	"2015",
+  isbn13 =	"978-1-4503-3472-3",
+  pages =	"1039--1046",
+  organisation = "SIGEVO",
+  address =	"Madrid, Spain",
+  URL =  	"http://doi.acm.org/10.1145/2739480.2754769",
+  DOI =  	"10.1145/2739480.2754769",
+  publisher =	"ACM",
+  publisher_address = "New York, NY, USA",
+}
+```
