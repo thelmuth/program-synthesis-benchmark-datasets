@@ -3,12 +3,12 @@
 ## Edge Cases
 76 cases
 - 26 - all lowercases letters
-- 26 - all uppercase letters
 - 24 - hard-coded
 
 ## Random Cases
 1 million cases
-- 1 million random strings of length >= 2
+- 26 - all uppercase letters
+- 999,974 random strings of length >= 2
 
 ## Typical use:
 Train cases (200)
@@ -16,8 +16,7 @@ Train cases (200)
 - 150 random cases
 
 Test cases (1,000)
-- 26 edge cases (26 uppercase)
-- 974 random cases
+- 1,000 random cases
 
 ## Input/Output Types
 - input1: string
