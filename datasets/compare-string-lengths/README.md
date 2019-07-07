@@ -19,9 +19,7 @@ Train cases (100)
 - 78 random cases
 
 Test cases (1,000)
-- 100 all same string
-- 200 already in order
-- 700 random strings
+- 1,000 random cases
 
 ## Input/Output Types
 - input1: string

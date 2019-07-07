@@ -18,16 +18,10 @@
 ## Typical use:
 Train cases (100)
 - 23 edge cases
-- 37 true cases
-- 10 equal vector cases
-- 20 "close calls"
-- 10 random cases
+- 77 random cases
 
 Test cases (1,000)
-- 500 true cases
-- 100 equal vector cases
-- 200 "close calls"
-- 200 random cases
+- 1,000 random cases
 
 ## Input/Output Types
 - input1: vector

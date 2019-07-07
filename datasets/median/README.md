@@ -11,14 +11,10 @@
 
 ## Typical use:
 Train cases (100)
-- 60 random integers
-- 30 cases where two of the three numbers are the same
-- 10 cases where all three numbers are the same
+- 100 random cases
 
 Test cases (1,000)
-- 600 random integers
-- 300 cases where two of the three numbers are the same
-- 100 cases where all three numbers are the same
+- 1,000 random cases
 
 ## Input/Output Types
 - input1: integer

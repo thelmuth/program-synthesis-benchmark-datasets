@@ -15,14 +15,10 @@
 ## Typical use:
 Train cases (200)
 - 32 edge cases
-- 9 vectors of random length, all odd integers
-- 9 vectors of random length, all even integers
-- 150 vectors of random length, random integers
+- 168 random cases
 
 Test cases (2,000)
-- 100 vectors of random length, all odd integers
-- 100 vectors of random length, all even integers
-- 1,800 vectors of random length, random integers
+- 2,000 random cases
 
 ## Input/Output Types
 - input1: vector
