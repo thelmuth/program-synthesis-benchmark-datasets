@@ -51,3 +51,7 @@ BibTeX entry for paper:
   publisher_address = "New York, NY, USA",
 }
 ```
+
+## Generation Source Code
+
+The datasets here were generated using [this function call](https://github.com/thelmuth/Clojush/blob/develop/2019-benchmark-datasets/src/clojush/problems/software/test_case_data_generators.clj#L180-L181) in Clojush, the Clojure version of PushGP. This code is admittedly messy, and should only be used if absolutely necessary.
