@@ -1,7 +1,7 @@
 # Scrabble Score
 
 ## Edge Cases
-76 cases
+50 cases
 - 26 - all lowercases letters
 - 24 - hard-coded
 
