@@ -1,6 +1,6 @@
 # General Program Synthesis Benchmark Suite Datasets
 
-Version 1.1
+Version 1.2
 
 This repository contains datasets for the 29 problems described in the paper [General Program Synthesis Benchmark Suite](http://thelmuth.github.io/GECCO_2015_Benchmarks_Materials/). These problems come from introductory programming textbooks, and require a range of programming constructs and datatypes to solve. These datasets are designed to be usable for any method of performing general program synthesis, including and not limited to inductive program synthesis and evolutionary methods such as genetic programming.
 
