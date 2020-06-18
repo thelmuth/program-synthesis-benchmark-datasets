@@ -16,7 +16,7 @@ A typical use of these datasets for a set of runs of program synthesis would be:
 - For each run, use a different, randomly-sampled set of `random` cases in the training set.
 - Use a larger set of `random` cases as an unseen test set.
 
-We have provided typical sizes of training and test sets in each problems README.md.
+We have provided typical sizes of training and test sets in each problem's README.md.
 
 ## Dataset format
 
